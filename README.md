@@ -260,8 +260,13 @@ int main(int argc, char **argv)
 ```
 
 ## OUTPUT:
-<img width="829" height="198" alt="image" src="https://github.com/user-attachments/assets/518d2d92-2bde-4a11-875e-d4580dde9c85" />
-<img width="820" height="186" alt="image" src="https://github.com/user-attachments/assets/94f99c56-2e4d-4ca6-b47f-13e5f6848fc2" />
+<img width="1663" height="190" alt="Screenshot 2026-02-09 094444" src="https://github.com/user-attachments/assets/3dce15e0-bede-4a38-9ae7-8e42b2eb971b" />
+
+<img width="1710" height="192" alt="Screenshot 2026-02-09 092926" src="https://github.com/user-attachments/assets/25b09127-c2a2-4269-8a0c-ea530348fd9f" />
+
+<img width="1622" height="196" alt="Screenshot 2026-02-09 093212" src="https://github.com/user-attachments/assets/2fc1e344-7b7e-4f10-930e-cca2ad00740b" />
+
+<img width="1640" height="189" alt="Screenshot 2026-02-09 093403" src="https://github.com/user-attachments/assets/c9bb2a6e-aaa3-4ee2-b985-8bfc989cc9fd" />
 
 
 ## RESULT:
